@@ -1,4 +1,4 @@
-# Data Wrangling & Cleansing, Visualization and Analysis with Python
+# Descriptive Statistics with Python
 
 ## To-do exercises
 
